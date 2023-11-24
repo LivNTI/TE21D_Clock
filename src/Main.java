@@ -6,14 +6,7 @@ public class Main {
         System.out.println("Graphics started");
 
 
-
-
-        Window myWindow= new Window(); //skapa en frame
-
-        //frame.add(panel); //lägg till panelen till framen
-        //frame.add(panel2);
-
-
+        new Window(); //skapa en frame
 
 
         System.out.println("grapics generated");
