@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Clicker/Clicker.iml" filepath="$PROJECT_DIR$/Clicker/Clicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitalClock/DigitalClock.iml" filepath="$PROJECT_DIR$/DigitalClock/DigitalClock.iml" />
       <module fileurl="file://$PROJECT_DIR$/TE21D_Clock.iml" filepath="$PROJECT_DIR$/TE21D_Clock.iml" />
     </modules>
   </component>
